@@ -10,5 +10,5 @@ Cube5: used texture 176 since it is easy to tile. Multiplied the vUv vector with
 
 24)
 a. 8u = x
-b. 8b = y
+b. 8v = y
 c. gray
