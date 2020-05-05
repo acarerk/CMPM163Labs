@@ -1,0 +1,10 @@
+Video Link: https://drive.google.com/file/d/1NJHDV01mz7EOQgU7Tgk4fg4Ld2xtkzPJ/view?usp=sharing
+
+List of Modifications: 
+
+Blue particle effects: Changed the color of the particle effect from the tutorial. Also, played with emmision  values, volume, gravity etc. to make it more of a "spark" effect.
+Ghost Player: Changed the player material to glass and played changed the transparency to make a ghost rider(not nicholas cage)
+Gold Cart: Changed the cart material to metallic copper and played with the material values to create a "golden cart".
+Trippy Skybox: Changed the camera background from skybox to depth only and got a weird effect which I decided to keep.
+Track change: I modified the track to have a longer route.
+Speed boosts: Placed speed boosts and obstacles around the track.
