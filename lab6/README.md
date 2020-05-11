@@ -9,7 +9,15 @@ on the rotation of the gameobject and illuminate all objects in a cone. It illum
 based on both position and rotation of the gameobject.
 Area Light: It only works while baking a lightmap. It shines in all directions to one side of a rectangular plane.
 
-![Lights](lab6/lights.png)
+![Lights](lights.png)
+
+#Material:
+original
+![glass](IMG_2572.jpg)
+material in unity
+![material](glassMaterial.png)
+
+
 
 #Textures:
 
@@ -17,5 +25,9 @@ Cube on the left: grass texture
 Cube on the right: stone texture
 (I found both of these textures on the unity asset store for free)
 
+![textures](textures.png)
+
 #Skybox:
 I used a starfield skybox that I got from the unity asset store for free
+
+![skybox](skybox.png)
