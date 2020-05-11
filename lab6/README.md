@@ -17,7 +17,8 @@ original
 material in unity
 ![material](glassMaterial.png)
 
-
+How I did it:
+I used the Standard(specular) shader and reduced the alpha channel of the albedo color to make it slightly transparent. I used the specular channel to emulate the mostly diffuse nature of the glass. I adjusted the smoothness slider to get the correct reflectivity of the material.
 
 #Textures:
 
