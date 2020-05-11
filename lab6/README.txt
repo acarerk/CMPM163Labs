@@ -1,4 +1,4 @@
-Types of lights:
+#Types of lights:
 
 -Point Light: It behaves like a bare lightbulb. It illuminates the scene 
 according to its position. Its rotation has no effect.
@@ -9,11 +9,13 @@ on the rotation of the gameobject and illuminate all objects in a cone. It illum
 based on both position and rotation of the gameobject.
 Area Light: It only works while baking a lightmap. It shines in all directions to one side of a rectangular plane.
 
-Textures:
+![Lights](lab6/lights.png)
+
+#Textures:
 
 Cube on the left: grass texture
 Cube on the right: stone texture
 (I found both of these textures on the unity asset store for free)
 
-Skybox:
+#Skybox:
 I used a starfield skybox that I got from the unity asset store for free
